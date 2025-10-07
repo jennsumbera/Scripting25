@@ -1,0 +1,76 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Underdog&display=swap');
+
+header, footer{
+font-family: "Metal Mania", system-ui;
+background-color: rgba(134, 219, 184, 0.705);
+padding: 60px;
+text-align: center;
+color: rgb(252, 252, 252);
+}
+
+
+
+body{
+background-color: rgb(124, 168, 137);
+background: #48a15b;
+background: radial-gradient(circle,rgba(72, 161, 91, 1) 0%, rgba(69, 91, 102, 1) 51%, rgba(181, 36, 60, 1) 100%);
+
+margin: 0px;
+padding: 0%;
+}
+
+h1{ color: darkred;
+}
+
+section{
+   font-family: "Underdog", system-ui;
+background-color: rgb(216, 183, 113);
+max-width: 960px
+margin: auto;
+color: rgb(0, 0, 0);
+padding: 20px;
+overflow: hidden;
+margin-bottom: 50px;
+}
+
+section img{
+float: left;
+padding-right: 20px;
+-webkit-box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+/*navbar*/
+
+nav {
+  position: sticky;
+  top: 0px;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #111111;
+}
+
+
+
