@@ -1,0 +1,25 @@
+header {
+  background-color:rgba(96, 58, 149, 0.913);
+  background-color: rgb(73, 106, 73);
+  opacity: 0.8;
+  }
+
+
+footer{ 
+  background-color: rgb(39, 8, 30);
+  opacity: 0.6;
+}
+
+body {
+  background-color: rgb(54, 126, 152);
+  background-image: url(../images/background2IMG_7612.jpeg);
+  background-repeat: repeat-x;
+}
+p{
+  font-family: "Urbanist", sans-serif;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
