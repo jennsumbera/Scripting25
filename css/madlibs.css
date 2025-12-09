@@ -1,0 +1,35 @@
+.bg-main{
+background-image: url(../images/trail.jpg);
+background-size: cover;
+background-position: center;
+padding-bottom: 15%;
+}
+
+section{
+font-family: "Oswald", sans-serif;
+background-color: seagreen;
+
+}
+
+.formCol{
+    background-color:plum;
+    border: 6px solid rgba(152, 196, 253, 0.849);
+    box-shadow: 20px 20px 0 rgba(0, 0, 0, 0.3);
+    border-radius: 50px;
+}
+
+.formCol input{
+     border: 5px solid rgba(54, 75, 122, 0.3);
+     border-radius: 50px;
+}
+.btn{
+    border-radius: 50px;
+    box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.64);
+}
+
+
+ header, footer{
+     font-family: "Frijole", system-ui;
+background-color: plum
+
+ }
